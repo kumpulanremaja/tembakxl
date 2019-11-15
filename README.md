@@ -5,5 +5,5 @@ TOOLS TEMBAK PAKET XL
 # pkg install curl
 # pkg install git
 # git clone https://github.com/kumpulanremaja/tembakxl
-# cd tembak-xl
+# cd tembakxl
 # bash dor-xl.sh
